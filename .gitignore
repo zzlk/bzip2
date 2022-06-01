@@ -27,3 +27,18 @@ builddir
 *.lib
 *.obj
 *.res
+
+# build artifacts
+Makefile
+bunzip
+bz_version.h
+bzcat
+bzcmp
+bzegrep
+bzfgrep
+bzip2
+bzip2.pc
+bzip2recover
+bzless
+man/Makefile
+tests/Makefile
